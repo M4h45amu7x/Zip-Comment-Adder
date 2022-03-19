@@ -10,3 +10,6 @@ This software can add zip comment to jar files
 ```java
 java -jar ZipCommentAdder-1.0.jar
 ```
+
+## Showcase:
+<img src="https://i.imgur.com/ahoDtxo.png">
